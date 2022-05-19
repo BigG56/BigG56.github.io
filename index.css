@@ -1,0 +1,147 @@
+* {
+    margin:0;
+    padding:0;
+}
+.navbar {
+    background-color: red;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: inline;
+    z-index: 5;
+}
+
+.navbar li {
+   display: inline;
+   padding: 0px 20px;
+   width: 100%;
+}
+
+footer {
+    display: inline-block;
+    background-color: red;
+    color: gold;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 0px 0px;
+    margin: 0px;
+    
+}
+
+#title {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    z-index: 6;
+}
+
+#badge {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: block;
+}
+
+#squad {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    padding: 0px 0px;
+    margin: 0px;
+    display: block;
+
+}
+
+.squad1 {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: block;
+}
+
+.squad2 {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+}
+
+li {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    z-index: 3;
+}
+
+#sofar {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+#trophy {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+#champ {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.info {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.info2 {
+    margin: 0 auto;
+    text-align: center;
+    color: gold;
+    background-color: red;
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+}
+
+#trophy4 {
+    background-size: cover;
+    z-index: 5;
+    width: 100%;
+    overflow: visible;
+    float: left;
+}
+
+
+
+    
